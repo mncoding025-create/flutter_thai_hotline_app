@@ -1,16 +1,5 @@
-# flutter_thai_hotline_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" height="" alt="localhost_1180_" src="https://github.com/user-attachments/assets/4a9c6bd3-b9d6-4de0-a0e9-82c217b394e9" />
+<img width="300" height="" alt="localhost_1180_ (1)" src="https://github.com/user-attachments/assets/174435b8-aa0e-4e82-a7fd-81e2f6c37629" />
+<img width="300" height="" alt="localhost_1180_ (2)" src="https://github.com/user-attachments/assets/09675ecf-4380-4cc7-9cad-154fa32a58dc" />
+<img width="300" height="" alt="localhost_1180_ (3)" src="https://github.com/user-attachments/assets/975cd7fb-5f7d-478e-a5be-9d6e35d0ad7c" />
+<img width="300" height="" alt="localhost_1180_ (4)" src="https://github.com/user-attachments/assets/8be88260-cba2-46c9-a80c-9c539759a266" />
